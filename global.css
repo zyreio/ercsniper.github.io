@@ -23,7 +23,6 @@ html {
   outline: 0;
   padding: 0;
   margin: 0;
-  user-select: none;
 }
 
 button {
@@ -40,7 +39,7 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'Inter', serif;
+  font-family: 'Inter', Helvetica, sans-serif;
 }
 
 /* Tooltip */
